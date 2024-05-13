@@ -1,4 +1,4 @@
-package PrototypeAndRegistry;
+package DESIGN_PATTERNS.PrototypeAndRegistry;
 
 public class Student implements Prototype<Student> {
     private String name;

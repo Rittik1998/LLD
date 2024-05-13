@@ -1,4 +1,4 @@
-package PrototypeAndRegistry;
+package DESIGN_PATTERNS.PrototypeAndRegistry;
 
 import java.util.HashMap;
 import java.util.Map;

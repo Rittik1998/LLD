@@ -1,4 +1,4 @@
-package PrototypeAndRegistry;
+package DESIGN_PATTERNS.PrototypeAndRegistry;
 
 public interface Registry<T> {
     void register(String key, T obj);

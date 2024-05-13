@@ -1,4 +1,4 @@
-package PrototypeAndRegistry;
+package DESIGN_PATTERNS.PrototypeAndRegistry;
 
 public class Onboarding {
     public void fillRegistry(){
